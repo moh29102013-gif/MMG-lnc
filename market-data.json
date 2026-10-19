@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "currentPrice": 10,
+  "openingPrice": 10,
+  "updatedAt": "2026-10-19T18:00:00.000Z",
+  "news": [],
+  "history": [
+    {
+      "id": "mmg-opening-price",
+      "price": 10,
+      "previousPrice": 10,
+      "changePercent": 0,
+      "reason": "السعر الافتتاحي",
+      "time": "2026-10-19T18:00:00.000Z",
+      "kind": "opening"
+    }
+  ]
+}
